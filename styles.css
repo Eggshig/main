@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+span {
+  text-decoration: underline;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  line-height: 2;
+  color: #E4a5f9;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E4a5f9;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E4a5f9;
+}
+.top-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #E4F9F5;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+}
+
+.skills p {
+  text-align: left;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+.pro-pic {
+  width: 200px;
+  border-radius: 50%
+}
+.chilly {
+  width: 200px;
+}
